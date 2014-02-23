@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PhoneGap Build Starter Application
 
 > A Hello World application to get started with PhoneGap Build.
@@ -48,3 +49,9 @@ Replace `<h1>Apache Cordova</h1>` with `<h1>PhoneGap</h1>`.
 
 [cordova-app]: http://github.com/apache/cordova-app-hello-world
 
+=======
+bimo
+====
+
+Bimo Repository
+>>>>>>> branch 'master' of https://github.com/proware/bimo.git
