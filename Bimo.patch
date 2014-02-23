@@ -1,0 +1,13 @@
+diff --git a/www/index.html b/www/index.html
+index 96851a4..3644a2e 100644
+--- a/www/index.html
++++ b/www/index.html
+@@ -27,7 +27,7 @@
+     </head>
+     <body>
+         <div class="app">
+-            <h1>PhoneGap</h1>
++            <h1>Bimo app</h1>
+             <div id="deviceready" class="blink">
+                 <p class="event listening">Connecting to Device</p>
+                 <p class="event received">Device is Ready</p>
